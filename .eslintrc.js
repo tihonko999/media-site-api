@@ -20,5 +20,6 @@ module.exports = {
     'comma-dangle': ['warn', 'always-multiline'],
     'no-console': 'off',
     indent: ['error', 2],
+    'object-curly-spacing': ['error', 'never'],
   },
 }
