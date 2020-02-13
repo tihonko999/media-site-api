@@ -1,0 +1,23 @@
+{
+  "name": "media-site-api",
+  "version": "1.0.0",
+  "description": "API mockup with json-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "./node_modules/.bin/nodemon server.js"
+  },
+  "author": "Alexey Tikhonenko",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^1.0.1",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2"
+  }
+}
