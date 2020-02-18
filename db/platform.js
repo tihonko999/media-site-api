@@ -6,12 +6,8 @@ module.exports = {
   banners: [
     {
       slug: 'rightcol',
-      ownerId: 205178,
-      params: {
-        pp: 'g',
-        ps: 'dsed',
-        p2: 'gpuk',
-      },
+      ownerId: 249448,
+      params: {pp: 'kbq', ps: 'cgss', p2: 'fpew'},
     },
   ],
 }
