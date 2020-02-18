@@ -4,7 +4,6 @@ const db = require('./db')
 const router = jsonServer.router(db)
 const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 4000
-// const port = 4000
 
 server.use(middlewares)
 server.use(router)
