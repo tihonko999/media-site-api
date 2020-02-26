@@ -1,11 +1,11 @@
 const jsonServer = require('json-server')
-const server = jsonServer.create()
+const index = jsonServer.create()
 const db = require('./db')
 const router = jsonServer.router(db)
 const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 4000
 
-server.use(middlewares)
-server.use(router)
+index.use(middlewares)
+index.use(router)
 
-server.listen(port)
+index.listen(port)
