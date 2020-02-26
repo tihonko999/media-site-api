@@ -1,8 +1,8 @@
-const platform = require('./platform')
+const user = require('./user')
+const login = require('./login')
+const logout = require('./logout')
 const matters = require('./matters')
-const matter = require('./matter')
-const pages = require('./pages')
 
 module.exports = {
-  platform, matters, matter, pages,
+  user, login, logout, matters,
 }
