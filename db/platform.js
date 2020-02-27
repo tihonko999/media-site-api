@@ -12,4 +12,11 @@ module.exports = {
       params: {pp: 'kbq', ps: 'cgss', p2: 'fpew'},
     },
   ],
+  rubrics: [
+    {slug: 'tech', title: 'Технологии'},
+    {slug: 'economy', title: 'Экономика'},
+  ],
+  pages: [
+    {slug: 'contacts', title: 'Контакты'},
+  ],
 }

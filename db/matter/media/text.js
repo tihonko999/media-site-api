@@ -1,16 +1,8 @@
 module.exports = {
   type: 'text',
-  content: `<p>faker.js is a popular project used by many organizations and individuals in production settings. Major and Minor version releases are generally on a monthly schedule. Bugs fixes are addressed by severity and fixed as soon as possible.</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
-<p>Permission is hereby <i>granted</i>, free of charge <a href="https://ya.ru">Ссылка</a> Permission is hereby <b>granted</b>, free of charge</p>
+  content: `
+<p>В Башкирии завершили проектирование нового завода, который построят в Благовещенске. Предприятие будет выпускать утеплители для ЖКХ и трубных магистралей. Летом 2020 года планируется возвести производственные корпуса, а пока в республике ждут прибытия итальянского оборудования. Завершить строительство и запустить производство планируется в течение этого года.</p>
+<p>Известно, что на строительство объекта инвесторы выделили более 1 миллиарда рублей, при этом на заводе в год будет производиться 25 тысяч тонн продукции. После завершения строительных работ в Благовещенске появится 150 рабочих мест. Производство обещают сделать экологически чистым, благодаря безотходности процесса.</p>
+<p>Сообщается, что ежегодно новое предприятие будет <a href="https://ya.ru">отчислять</a> не менее 250 миллионов рублей налогов.</p>
 `,
 }

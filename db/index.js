@@ -1,8 +1,10 @@
 const platform = require('./platform')
 const matters = require('./matters')
+const cards = require('./matters/cards')
 const matter = require('./matter')
+const card = require('./matter/card')
 const pages = require('./pages')
 
 module.exports = {
-  platform, matters, matter, pages,
+  platform, pages, matters, matter, cards, card,
 }
