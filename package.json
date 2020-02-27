@@ -4,8 +4,8 @@
   "description": "API mockup with json-server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "./node_modules/.bin/nodemon server.js"
+    "start": "node index.js",
+    "dev": "./node_modules/.bin/nodemon index.js"
   },
   "author": "Alexey Tikhonenko",
   "license": "ISC",
