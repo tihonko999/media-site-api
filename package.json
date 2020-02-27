@@ -12,6 +12,7 @@
   "dependencies": {
     "faker": "^4.1.0",
     "json-server": "^0.16.0",
+    "lodash.clonedeep": "^4.5.0",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
